@@ -9,7 +9,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,cs,unity,discord,figma,py" />
+<img src="https://skillicons.dev/icons?i=html,cs,unity,discord,figma,py,laravel,bootstrap,php" />
     <br>
     
 </div>
