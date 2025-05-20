@@ -19,18 +19,19 @@
 
 <div align="center">
 
-  <h2>🎮 Snake Game: Eating My Contributions 🎮</h2>
+  <h2>🐍 My Contributions 🐍</h2>
 
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake gif eating my contributions" />
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Animation" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/LEVEL-UP!-purple?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/SNAKE-ALIVE-brightgreen?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/COMMITS-EATEN-9999-blueviolet?style=for-the-badge" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/GAME-STARTED-green?style=for-the-badge&logo=github" alt="game started badge" />
-  <img src="https://img.shields.io/badge/SCORE-9999-yellow?style=for-the-badge" alt="score badge" />
-  <img src="https://img.shields.io/badge/LEVEL-99-red?style=for-the-badge" alt="level badge" />
-
-  <br/><br/>
-  <sub>Snake is devouring my commits... One contribution at a time 🐍</sub>
+  <sub><i>Ular ini lapar akan kontribusi. Setiap commit membuatnya tumbuh! 🟪🟪🟪🟪</i></sub>
 
 </div>
 
