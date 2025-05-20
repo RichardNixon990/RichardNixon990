@@ -17,23 +17,9 @@
 <br/>
 <hr/>
 
-<div align="center">
+![Profile View](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=green)
+![Languages](https://img.shields.io/github/languages/top/USERNAME/REPO?style=flat-square)
 
-  <h2>🐍 My Contributions 🐍</h2>
-
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Animation" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/LEVEL-UP!-purple?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/SNAKE-ALIVE-brightgreen?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/COMMITS-EATEN-9999-blueviolet?style=for-the-badge" />
-
-  <br/><br/>
-
-  <sub><i>Ular ini lapar akan kontribusi. Setiap commit membuatnya tumbuh! 🟪🟪🟪🟪</i></sub>
-
-</div>
 
 <hr/>
 
