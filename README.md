@@ -19,10 +19,16 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br>
-  
-  <br/><br/><br/>
+     <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake gif eating my contributions" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/GAME-STARTED-green?style=for-the-badge&logo=github" alt="game started badge" />
+  <img src="https://img.shields.io/badge/SCORE-9999-yellow?style=for-the-badge" alt="score badge" />
+  <img src="https://img.shields.io/badge/LEVEL-99-red?style=for-the-badge" alt="level badge" />
+
+  <br/><br/>
+  <sub>Snake is devouring my commits... One contribution at a time 🐍</sub>
 </div>
 
 <hr/>
