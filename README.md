@@ -17,8 +17,10 @@
 <br/>
 <hr/>
 
-![Profile View](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=green)
-![Languages](https://img.shields.io/github/languages/top/USERNAME/REPO?style=flat-square)
+🎮 Level: 99  
+💾 Languages: PHP, Python, JS  
+🧠 XP: 10,000  
+
 
 
 <hr/>
