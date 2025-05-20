@@ -17,10 +17,6 @@
 <br/>
 <hr/>
 
-🎮 Level: 99  
-💾 Languages: PHP, Python, JS  
-🧠 XP: 10,000  
-
 
 
 <hr/>
