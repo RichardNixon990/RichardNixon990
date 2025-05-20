@@ -18,8 +18,10 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-     <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake gif eating my contributions" />
+
+  <h2>🎮 Snake Game: Eating My Contributions 🎮</h2>
+
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake gif eating my contributions" />
 
   <br/><br/>
 
@@ -29,6 +31,7 @@
 
   <br/><br/>
   <sub>Snake is devouring my commits... One contribution at a time 🐍</sub>
+
 </div>
 
 <hr/>
